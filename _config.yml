@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Business Jekyll Theme
-email: your-email@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  Yet another Jekyll theme. It is designed for business purpose and ported by 
-  Melvin Ch'ng.
+title: INTISA Servicios Profesionales
+email: atencionalcliente@intisa.com
+description: > # Somos una consultora tecnológica cuyo objetivo es ofrecer servicios de calidad a nuestros clientes.
+Nuestra diferencia esta en el compromiso con nuestros clientes en cada uno de los proyectos.
+Nuestra actividad se centra principalmente entre Barcelona y Madrid en donde disponemos de oficinas centrales.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
