@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: INTISA Servicios Profesionales
 email: atencionalcliente@intisa.com
-description: > # Somos una consultora tecnológica cuyo objetivo es ofrecer servicios de calidad a nuestros clientes.
+description: # Somos una consultora tecnológica cuyo objetivo es ofrecer servicios de calidad a nuestros clientes.
 Nuestra diferencia esta en el compromiso con nuestros clientes en cada uno de los proyectos.
 Nuestra actividad se centra principalmente entre Barcelona y Madrid en donde disponemos de oficinas centrales.
 baseurl: "" # the subpath of your site, e.g. /blog
