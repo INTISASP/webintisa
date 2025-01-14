@@ -25,6 +25,7 @@ address_line: C/ Llull 321, 08019 - Barcelona
 telephone_number: (+34) 93 551 45 46
 company_email: atencionalcliente@intisa.com
 google_map: https://maps.app.goo.gl/TjsHSYs9oMjV3nAN8
+custom_service: atencionalcliente@intisa.com
 
 # Build settings
 markdown: kramdown
